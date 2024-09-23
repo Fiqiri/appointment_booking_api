@@ -7,7 +7,7 @@ This project is an appointment booking system built using Django and Django REST
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/appointment_system.git
+   git clone https://github.com/Fiqiri/appointment_booking_api.git
    cd appointment_system
    ```
 
